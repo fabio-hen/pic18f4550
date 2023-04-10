@@ -1,0 +1,9 @@
+main
+	__CC2DW
+	UART1_Init
+	UART1_Data_Ready
+	UART1_Read
+	strstr
+		strlen
+		strncmp
+		strchr
